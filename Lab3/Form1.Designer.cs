@@ -62,7 +62,7 @@
             // 
             // grpDataRequired
             // 
-            this.grpDataRequired.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+            this.grpDataRequired.BackColor = System.Drawing.Color.SpringGreen;
             this.grpDataRequired.Controls.Add(this.btnExit);
             this.grpDataRequired.Controls.Add(this.btnReset);
             this.grpDataRequired.Controls.Add(this.btnCalculate);
@@ -168,7 +168,7 @@
             // 
             // grpSolution
             // 
-            this.grpSolution.BackColor = System.Drawing.Color.LemonChiffon;
+            this.grpSolution.BackColor = System.Drawing.Color.LightSkyBlue;
             this.grpSolution.Controls.Add(this.lblMonthPay);
             this.grpSolution.Controls.Add(this.label4);
             this.grpSolution.Controls.Add(this.label6);
